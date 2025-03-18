@@ -75,9 +75,9 @@ python script/scraper.py
 ```
 scraper/
 ├── script.py                # Main scraping script
-├── cookies.txt          # Browser cookies (never commit this!)
-├── product_urls.json    # All product page URLs
-├── product_details.csv  # Full product dataset
+├── cookies.txt              # Browser cookies (never commit this!)
+├── product_urls.json        # All product page URLs
+├── product_details.csv      # Full product dataset
 ├── requirements.txt         # Python dependencies
 └── README.md                # You are here!
 ```
@@ -87,11 +87,11 @@ scraper/
 ### Change Target Category
 Modify the `product_listing_url` in `scraper.py`:
 ```python
-# Current URL (sofas)
-product_listing_url = "https://www.potterybarn.com/shop/furniture/sofa/..."
+# Current URL 
+product_listing_url = "current url"
 
-# Example: Switch to dining chairs
-product_listing_url = "https://www.potterybarn.com/shop/furniture/dining-chairs/"
+# Example: Switch to your desired
+product_listing_url = "your desired url"
 ```
 
 ### Adjust Wait Times
@@ -113,9 +113,6 @@ This project follows best practices:
 ## 📄 License
 MIT License - Use freely but attribute if redistributed.  
 ```
-
----
-
 This README includes:  
 ✅ Visual hierarchy with emojis and badges  
 ✅ Step-by-step cookie setup guide  
