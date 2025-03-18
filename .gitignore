@@ -1,0 +1,21 @@
+# Ignore Python cache and virtual environment files
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env/
+.env*/
+*.env
+*.venv
+
+# Ignore Selenium/WebDriver binaries
+chromedriver*
+geckodriver*
+*.exe
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore data and log files
+data/
+logs/
