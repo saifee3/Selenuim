@@ -1,5 +1,8 @@
 # 🛋️ Ecommerce Web Scraper using Selenium
 
+
+📷 Credits: Banner Image by Real Python on https://realpython.com/modern-web-automation-with-python-and-selenium/
+- 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Selenium](https://img.shields.io/badge/Selenium-4.15.2-green?logo=selenium)
 ![License](https://img.shields.io/badge/License-MIT-red)
