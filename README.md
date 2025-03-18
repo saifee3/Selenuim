@@ -58,7 +58,7 @@ python script/scraper.py
 2. Install **[Cookies Editor](https://chrome.google.com/webstore/detail/cookies-editor/)** from your browser's extension store
 
 ### Step 2: Export Active Cookies
-1. Navigate to **[Pottery Barn](https://www.potterybarn.com/)**
+1. Navigate to your desired website
 2. Log in (if required) and browse to the sofa section
 3. Click the **Cookies Editor** extension icon
 4. Click **Export** → **Copy to Clipboard**
