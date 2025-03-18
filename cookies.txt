@@ -1,118 +1,38 @@
-[
-    {
-        "domain": ".www.potterybarn.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "AAABON",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "93572f9a5024b995051746bb07efc193"
-    },
-    {
-        "domain": "www.potterybarn.com",
-        "expirationDate": 1737453673.745357,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "SameSite",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "None"
-    },
-    {
-        "domain": ".www.potterybarn.com",
-        "expirationDate": 1772013644.088112,
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "wsid_svi2",
-        "path": "/",
-        "sameSite": "strict",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "52364949736012056701607508770412732848"
-    },
-    {
-        "domain": "www.potterybarn.com",
-        "expirationDate": 1737457241.826691,
-        "hostOnly": true,
-        "httpOnly": true,
-        "name": "BIGipServerPool-PBDP-49446",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "!TkcaxUg4BxvLv4RcED6aY9ArwJUmJDF6vaUbX/s5Akx+R/w7vhgl0xkgkSrTvhKdSyXz7236UhKi6g=="
-    },
-    {
-        "domain": ".www.potterybarn.com",
-        "expirationDate": 1772013644.088225,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "wsid_svi3",
-        "path": "/",
-        "sameSite": "strict",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "52364949736012056701607508770412732848"
-    },
-    {
-        "domain": ".potterybarn.com",
-        "expirationDate": 1768989641.811971,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_abck",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "5EF38C55741832256D05C88D3314678E~-1~YAAQNsXOF+eRQHCUAQAASaFOiA1ZNe1qhFxg1qhixfKD9XliuQ60Oe43kjC0MfIdiM3/BVK/NlHnNTKNz7Zt0OIBmvpT803+DwdxzTsxeIENgPESJNKVV5hALTZ0g1/4r4jAsFD2FiobLbUDCOfGPNgp2gwz8hNJouX+b1kznrROH4FLf4N70G+8XU+/5f3I4It9vPsF/ybJe3JXOmE9M6t4VfknU8I7PetNBAFTwBi56ZZ+7NBuRvUdAR8unI8sHYRsXP6sF0g8ZXazcwBCclus2vJSzuobdfYMi2knDzYoPmC1PNenIZREwI6Bwc/My3UTnBjzXcLc5k01mQ8QxavGaDe1O0R+WxMI10b6RUZauHM//8bmpETeiNwWH/MRzI3fzALaPGG047tg0BN6A2lK/lLd1fLaY3MmAm8j3t9k4Jadi3MRiMmWP08CTT0jpUYNbeZESy/0TK/iwwpF7j9IgrDS/hMRtEd0RujVCvlFXg==~-1~||0||~1737457241"
-    },
-    {
-        "domain": ".potterybarn.com",
-        "expirationDate": 1739872839.532921,
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "PBRN",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "CT-USR"
-    },
-    {
-        "domain": ".potterybarn.com",
-        "expirationDate": 1768989644,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "utag_main",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "v_id:0194884ea86c006e859195b440e40506f00720670086e$_sn:1$_se:1$_ss:1$_st:1737455443886$ses_id:1737453643886%3Bexp-session$_pn:1%3Bexp-session$vapi_domain:potterybarn.com$prev_page_primary_category:category%3Bexp-session"
-    },
-    {
-        "domain": ".www.potterybarn.com",
-        "expirationDate": 1737457236.46889,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "WSGEO",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "PK|||31.53|74.35"
-    }
-]
+### **Step-by-Step Guide: Using "Cookies Editor" Extension to Export Cookies**
+
+
+### **Step 1: Install the "Cookies Editor" Extension**
+1. Open your browser (Chrome, Firefox, or Edge).
+2. Go to the extension store:
+   - **Chrome**: [Cookies Editor on Chrome Web Store](https://chrome.google.com/webstore/detail/cookies-editor/)
+   - **Firefox**: [Cookies Editor on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/cookies-editor/)
+3. Click **Add to Browser** and install the extension.
+
+### **Step 2: Navigate to the Target Website**
+1. Open a new tab and go to the website you want to extract cookies from (e.g., `https://www.potterybarn.com`).
+2. Log in or perform any necessary actions to ensure the cookies are active.
+
+### **Step 3: Open the "Cookies Editor" Extension**
+1. Click on the **Cookies Editor** icon in your browser’s toolbar.
+2. The extension will open in a new tab, showing all cookies for the current website.
+
+### **Step 4: Export Cookies**
+1. In the **Cookies Editor** interface, click the **Export** button (usually at the top or bottom of the page).
+2. Choose **Export as JSON** (this is the most common format for cookies).
+3. Copy the exported JSON data to your clipboard.
+
+### **Step 5: Save Cookies to a `.txt` File**
+1. Open a text editor (e.g., Notepad, VS Code, or Sublime Text).
+2. Paste the copied JSON data into the text editor.
+3. Save the file as `cookies.txt` in your project’s `config/` folder.
+
+### **Step 7: Use the Cookies in Your Script**
+1. In your Python script, load the `cookies.txt` file using the `json` module:
+   ```python
+   import json
+
+   with open('config/cookies.txt', 'r') as file:
+       cookies = json.load(file)
+   ```
+2. Add the cookies to your Selenium WebDriver session as shown in your script.
+
