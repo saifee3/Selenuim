@@ -1,8 +1,7 @@
 # 🛋️ Ecommerce Web Scraper using Selenium
+![image](https://github.com/user-attachments/assets/325f6104-a93c-4735-920d-2df42951f556)
+     Credits: Banner Image by Real Python on https://realpython.com/modern-web-automation-with-python-and-selenium/
 
-
-📷 Credits: Banner Image by Real Python on https://realpython.com/modern-web-automation-with-python-and-selenium/
-- 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Selenium](https://img.shields.io/badge/Selenium-4.15.2-green?logo=selenium)
 ![License](https://img.shields.io/badge/License-MIT-red)
@@ -105,7 +104,6 @@ time.sleep(3)   # Product page load → Reduce to 2 for faster scraping
 ## 📜 Ethical Scraping
 
 This project follows best practices:
-- 🐢 Respects `robots.txt` rules
 - ⏳ 20-second delay between page loads
 - 📉 Limited to 1 concurrent request
 - 🔒 Never stores personal/sensitive data
@@ -114,7 +112,6 @@ This project follows best practices:
 
 ## 📄 License
 MIT License - Use freely but attribute if redistributed.  
-**Note**: Pottery Barn's data is © their respective owners. Use responsibly.
 ```
 
 ---
