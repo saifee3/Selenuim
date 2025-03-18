@@ -32,7 +32,7 @@ A Selenium-based web scraper that extracts product details (title, price, image 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/pottery-barn-scraper.git
+git clone https://github.com/saifee3/ecommerce-web-scraper-using-selenuim.git
 cd pottery-barn-scraper
 ```
 
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Set Up Cookies (One-Time Setup)
-Follow the **[Cookie Setup Guide](#-cookie-setup-guide)** below to generate your `cookies.txt` file.
+Follow the Cookie Setup Guide below to generate your `cookies.txt` file.
 
 ### 4. Run the Scraper
 ```bash
