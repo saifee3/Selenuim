@@ -1,7 +1,5 @@
 # 🛋️ Ecommerce Web Scraper using Selenium
 ![image](https://github.com/user-attachments/assets/325f6104-a93c-4735-920d-2df42951f556)
-     Credits: Banner Image by Real Python on https://realpython.com/modern-web-automation-with-python-and-selenium/
-
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Selenium](https://img.shields.io/badge/Selenium-4.15.2-green?logo=selenium)
 ![License](https://img.shields.io/badge/License-MIT-red)
@@ -136,13 +134,11 @@ This project follows best practices:
 
 ## 📄 License
 MIT License - Use freely but attribute if redistributed.  
-```
-This README includes:  
-✅ Visual hierarchy with emojis and badges  
-✅ Step-by-step cookie setup guide  
-✅ Clear troubleshooting section  
-✅ Ethical scraping guidelines  
-✅ Easy-to-scan code snippets  
-✅ Responsive folder structure visualization  
 
-Let me know if you need adjustments! 😊
+## 🙏 Credits
+
+- **[Selenium](https://www.selenium.dev/)** - The primary automation framework used in this project.  
+- **[Python](https://www.python.org/)** - The programming language powering this scraper.  
+- **[Real Python](https://realpython.com/modern-web-automation-with-python-and-selenium/)** - Banner image sourced from their tutorial.  
+- **[Pottery Barn](https://www.potterybarn.com/)** - The e-commerce website used for data extraction.  
+- Banner Image by **Real Python** on https://realpython.com/modern-web-automation-with-python-and-selenium/
